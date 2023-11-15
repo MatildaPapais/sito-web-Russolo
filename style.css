@@ -1,0 +1,370 @@
+/* Generale */
+
+* {
+  box-sizing: border-box;
+}
+
+body  {
+  font-family: Arial;
+  font-size: 15px;
+  width: 100%;
+  margin: 0;
+}
+
+header .navbar-brand {
+  font-family: 'Alata', sans-serif !important; 
+  font-size: 35px !important;
+  padding-left: 25px !important;
+}
+
+main {
+  padding: 0;
+  width: 100%;
+  background: whitesmoke;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.navbar-nav {
+  margin-left: 20px !important;
+}
+
+.btn-outline-success, .btn-outline-dark {
+  border-color: #803789 !important;
+  color: #803789 !important;
+  margin: 5px 50px 5px 0 !important;
+}
+
+.btn-outline-success:hover, .btn-outline-dark:hover {
+  background-color: #803789 !important;
+  color: whitesmoke !important;
+}
+
+.btn-dark {
+  background-color: #803789 !important;
+  border: none !important;
+  margin: 5px 0 !important;
+}
+
+.btn-dark:link {
+  color: whitesmoke !important;
+}
+
+.btn-dark:hover {
+  color: whitesmoke !important;
+}
+
+.btn-dark a:link {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+#main a {
+  color: grey;
+}
+
+#main a:hover {
+  color: #212529;
+}
+
+#intro {
+  margin: 0;
+  padding: 40px 30px 30px 30px;
+  text-align: left;
+  font-size: 16px;
+}
+
+#sidebar {
+  padding: 20px 20px 20px 0px !important;
+  margin: 0 !important;
+}
+
+.breadcrumb {
+  background-color: whitesmoke !important;
+  color: grey !important;
+}
+
+.card {
+   background-color: white;
+   padding: 10px;
+   margin-top: 20px;
+   font-size: 14px!important;
+   text-align: center;
+}
+
+#timeline {
+  padding: 40px 30px;
+}
+
+#timeline .iframe {
+  margin-top: 20px !important;
+}
+
+footer .container-fluid {
+  background-color: #212529;
+  color: white;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+#footer {
+  margin: 20px 30px 0 30px;
+}
+
+#comment {
+  text-align: right;
+}
+
+#linkutili ul {
+  list-style-type: none;
+  text-align: left;
+  margin-left: 60px;
+}
+
+#linkutili ul a {
+  color: grey;
+}
+
+#linkutili ul a:hover {
+  color: whitesmoke;
+}
+
+#share {
+  text-align: left;
+}
+
+#share .fa {
+  padding: 10px 20px !important;
+  font-size: 30px !important;
+  width: 30px !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  background: #212529 !important;
+  color: #803789 !important;
+}
+
+#share .fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+    color: #803789;
+}
+
+#copyright {
+  margin: 0;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+
+/* Lista item opere d'arte */
+
+#lista {
+  padding-top: 20px;
+}
+
+.card-footer {
+  background-color: white !important;
+}
+
+.center {
+  text-align: center;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  margin: 20px 4px;
+}
+
+.pagination a.active {
+  background-color: #803789;
+  border: 1px solid; 
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+  color: #803789;
+}
+
+#sidebar a {
+  color: grey;
+  text-decoration: none;
+}
+
+#sidebar .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+#sidebar .dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 100px;
+  background-color: white;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 0 3px;
+  z-index: 1;
+}
+
+#sidebar .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+/* Lista item Scritti */
+
+
+
+
+/* Item 1 - L'arte dei rumori */
+
+#item {
+  padding: 30px 0px 20px 20px;
+  margin: 0px;
+}
+
+.mySlides {
+  display: none
+}
+
+.mySlides img {vertical-align: middle;}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: 30px 10px 0 0;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  text-decoration:  none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.dot:hover {
+  background-color: #717171;
+}
+
+@media only screen and (max-width: 300px) {
+  .prev, .next {font-size: 11px}
+}
+
+ul {
+  list-style-type: none;
+}
+
+#introduzione {
+  padding: 100px 20px 10px 20px;
+  margin: 0px;
+}
+
+#introduzione a:link {
+  text-decoration: none;
+  color: grey;
+}
+
+#introduzione a:visited {
+  color: grey;
+}
+
+#introduzione button {
+  background-color: #803789 !important;
+  border: none !important;
+}
+
+#introduzione button a:link {
+  color: white !important;
+}
+
+#introduzione button a:visited {
+  color: white !important;
+}
+
+
+#scheda {
+  margin: 20px 0px 30px 0px;
+}
+
+#scheda .list-group-item {
+  background-color: whitesmoke !important;
+  text-align: right;
+}
+
+#scheda span {
+  display: inline-block; 
+  float: left;
+  text-align: left;
+  width: 200px;
+}
+
+#text {
+  text-align: justify;
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+
+#text h3 {
+  text-align: center;
+}
+
+#text h4 {
+  text-align: center;
+}
+
+#firma {
+  float: right;
+  text-align: right;
+}
+
+#publisher {
+  text-align: center;
+}
+
+
+
+
