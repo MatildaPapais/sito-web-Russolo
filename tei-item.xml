@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'arte dei rumori - Manifesto futurista</title>
+				<respStmt>
+					<resp>Author</resp>
+					<name xml:id="LR">Luigi Russolo</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matilda Papais</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Internet Archive</publisher>
+				<publisher>Mart-Museo di arte moderna e contemporanea</publisher>
+				<pubPlace>
+					<address>
+						<addrLine>Rovereto</addrLine>
+						<addrLine>Trento, IT</addrLine>
+					</address>
+				</pubPlace>
+				<date when="1913-03-11">1913-03-11</date>
+				<availability>
+					<p>Questa risorsa digitale è liberamente accessibile per uso personale o di ricerca. Ogni uso commerciale è vietato</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><title>L'arte dei rumori : manifesto futurista</title><author>Luigi Russolo</author><place>Milano</place><publisher> Direzione del Movimento futurista</publisher>, <date>1913</date> <stamp>(Milano : A. Taveggia)</stamp>.</bibl>
+			</sourceDesc>	
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			
+			<div type="titlePart">
+
+				<title type="main" rend="underline">L'arte dei rumori</title>
+				<title type="sub" rend="underline">Manifesto futurista</title>
+			
+			</div>
+
+			<div type="text">
+
+				<to rend="big">Caro 
+					<name type="person">Balilla Pratella</name>
+				, grande musicista futurista,
+				</to>
+
+				<p n="1">	
+
+					<lg>
+						A 
+						<place type="city">Roma</place> , 
+						nel 
+						<place type="theatre">Teatro Costanzi</place> 
+						affollatissimo, mentre coi miei amici futuristi 
+						<choice>
+							<name type="person" class="artist">Marinetti</name> 
+							<full>Filippo Tommaso Marinetti</full>
+						</choice>
+						, 
+						<choice>
+							<name type="person" class="artist">Boccioni</name>
+							<full>Umberto Boccioni</full>
+						</choice>
+						, 
+						<choice>
+							<name type="person" class="artist">Balla</name>
+							<full>Giacomo Balla</full>
+						</choice>
+						<gap reason="unnecessary" name="famous"></gap>
+						ascoltavo l'ecuzione orchestrale della tua travolgente 
+						<name  rend="bold">Musica futurista</name>
+						, mi apparve alla mente una nuova arte: l'Arte dei Rumori, logica conseguenza delle tue meravigliose innovazioni.
+					</lg>
+					<lg>	
+						La vita 
+						<date>antica</date> fu tutta silenzio. 
+						Nel 
+						<date notBefore="1700-01-01">diciannovesimo secolo</date>
+						, coll'invenzione delle macchine, nacque il Rumore. 
+						<date>Oggi</date>
+						, il Rumore trionfa e domina sovrano sulla sensibilità degli uomini. 
+						<date to="1699-12-31">Per molti secoli</date> 
+						la vita si svolse in silenzio, o, per lo più, in sordina. I rumori più forti che interrompevano questo silenzio non erano nè intensi, nè prolungati, nè variati. Poichè, se trascuriamo gli eccezionali movimenti tellurici, gli uragani, le tempeste, le valanghe e le cascate, la natura è silenziosa.
+					</lg>
+					<lg>
+						In questa scarsità di 
+						<word rend="italics">rumori</word>
+						, i primi 
+						<word rend="italics">suoni</word> che l'uomo potè trarre da una canna forata o da una corda tesa, stupirono come cose nuove e mirabili. Il 
+						<word rend="italics">suono</word> fu dai popoli primitivi attribuito agli dei, considerato come sacro e riservato ai sacerdoti, che se ne servirono per arricchire di mistero i loro riti. Nacque così la concezione del suono come cosa a sè, diversa e indipendente dalla vita, e ne risultò la musica, mondo fantastico sovrapposto al reale, mondo inviolabile e sacro. Si comprende facilmente come una simile concezione della musica dovesse necessariamente rallentarne il progresso, a paragone delle altre arti. I 
+						<name type="population">Greci</name>
+						stessi, con la loro teoria musicale matematicamente sistemata da 
+						<name type="person">Pitagora</name>
+						, e in base alla quale era ammesso soltanto l'uso di pochi intervalli consonanti, hanno molto limitato il campo della musica, rendendo così impossibile l'armonia, che ignoravano.
+					</lg>
+					<lg>
+						Il 
+						<date type="age" from="476-00-00" to="1492-01-01">Medio Evo</date>
+						, con gli sviluppi e le modificazioni del sistema greco del tetracordo
+						, col 
+						<name type="art">canto gregoriano
+							<desc>tipe of music</desc> 
+						</name>
+						 e coi canti popolari, arricchì l'arte musicale, ma continuò a considerare il suono 
+						<statement rend="italics">nel suo svolgersi nel tempo</statement>
+						, concezione ristretta che durò
+						<date type="period" from="Middleage" to="1900">per parecchi secoli</date> 
+						e che ritroviamo ancora nelle più complicate polifonie dei contrappuntisti 
+						<name type="population" in="Netherlands">fiamminghi</name>>
+						. Non esisteva 
+						<word rend="italics">l'accordo</word>
+						; lo sviluppo delle parti diverse non era subordinato all'accordo che queste parti potevano produrre nel loro insieme; la concezione, infine, di queste parti era orizzontale, non verticale. Il desiderio, la ricerca e il gusto per l'unione simultanea dei diversi suoni, cioè per 
+						<word rend="italics">l'accordo</word>
+						(suono complesso) si manifestarono gradatamente, passando dall'accordo perfetto assonnate e con poche dissonanze di passaggio, alle complicate e persistenti dissonanze che caratterizzano la musica 
+						<date from="1900">contemporanea</date>
+						. 
+					</lg>
+					<lg>
+						L'arte musicale ricercò ed ottenne dapprima la purezza e la dolcezza del suono, indi amalgamò suoni diversi, preoccupandosi però di accarezzare l'orecchio
+						con soavi armonie. Oggi l'arte musicale complicandosi sempre più, ricerca gli amalgami di suoni più dissonanti, più strani e più aspri per l'orecchio. Ci avviciniamo così sempre più al 
+						<word rend="italics">suono-rumore</word>
+						.
+					</lg>
+					<lg>
+						<statement rend="bold">Questa evoluzione della musica è parallela al moltiplicarsi delle macchine</statement>
+						, che collaborano dovunque coll'uomo. Non soltanto nelle atmosfere fragorose delle grandi 
+						<place type="generic">città</place>
+						, ma anche nelle 
+						<place type="generic">campagne</place>
+						, che furono fino a 
+						<date>ieri</date>
+						normalmente silenziose, la macchina ha oggi creato tante varietà e concorrenza di rumori, che il suono puro, nella sua esiguità e monotonia, non suscita più emozione.
+					</lg>
+					<lg>
+						Per eccitare ed esaltare la nostra sensibilità, la musica andò sviluppandosi verso la più complessa polifonia e verso la maggior varietà di timbri o coloriti strumentali, ricercando le più complicate successioni di accordi dissonanti e preparando vagamente la creazione del 
+						<word rend="bold">rumore musicale</word>.
+						Questa evoluzione verso il «suono rumore» non era possibile prima d'ora. L'orecchio di un uomo del 
+						<date type="century" from="1700">settecento</date>
+						non avrebbe potuto sopportare l'intensità disarmonica di certi accordi prodotti dalle nostre orchestre (triplicate nel numero degli esecutori rispetto a quelle di allora). Il nostro orecchio invece se ne compiace, poichè è già educato dalla vita moderna, così prodiga di rumori svariati. Il nostro orecchio però non se ne accontenta, e reclama sempre più ampie emozioni acustiche.
+					</lg>
+					<lg>
+						D'altra parte, il suono musicale è troppo limitato nella varietà qualitativa dei timbri. Le più complicate orchestre si riducono a quattro o cinque classi di strumenti, differenti nel timbro del suono: 
+						<list>
+							<item>strumenti ad arco,</item>
+							<item>a pizzico,</item> 
+							<item>a fiato in metallo,</item> 
+							<item>a fiato in legno,</item> 
+							<item>a percussione.</item>
+						</list>
+						Cosicchè la musica 
+						<date>moderna</date> 
+						si dibatte in questo piccolo cerchio, sforzandosi vanamente di creare nuove varietà di timbri.
+					</lg>
+					<lg>
+						<text rend="bold">Bisogna rompere questo cerchio ristretto di suoni puri e conquistare la varietà infinita dei suoni-rumori.</text>
+					</lg>
+
+				</p>
+				<p n="2">
+
+					<lg>
+						Ognuno riconoscerà d'altronde che ogni suono porta con sè un viluppo di sensazioni già note e sciupate, che predispongono l'ascoltatore alla noia, malgrado gli sforzi di tutti i musicisti novatori. Noi futuristi abbiamo tutti profondamente amato e gustato le armonie dei grandi maestri. 
+						<choice>
+							<name type="person" class="musician">Beethoven</name> 
+							<full>Ludwig van Beethoven</full>
+						</choice>
+						e 
+						<choice>
+							<name type="person" class="musician">Wagner</name>
+							<full>Richard Wagner</full>
+						</choice>
+						ci hanno squassato i nervi e il cuore per molti anni. Ora ne siamo sazî e 
+						<text rend="bold">
+							godiamo molto più nel combinare idealmente bei rumori di tram, di motori a scoppio, di carrozze e di folle vocianti, che nel riudire, per esempio, 
+							l'«
+							<name type="musicSheet">Eroica
+								<desc><title>Sinfonia n.3 in mi bemolle maggiore, Op. 55</title>, <author>Ludwig van Beethoven</author>,<date>1802-1804</date></desc>
+							</name>
+							» o la «
+							<name type="musicSheet">Pastorale
+								<desc><title>Sinfonia n.6 in fa maggiore, Op.68</title>, <author>Ludwig van Beethoven</author>,<date>1807-1808</date></desc>
+							</name>
+							».
+						</text>
+					</lg>
+					<lg>
+						Non possiamo vedere quell'enorme apparato di forze che rappresenta un'orchestra moderna senza provare la più profonda delusione davanti ai suoi meschini risultati acustici. Conoscete voi spettacolo più ridicolo di venti uomini che s'accaniscono a raddoppiare il miagolìo di un violino? Tutto ciò farà naturalmente strillare i musicomani e risveglierà forse l'atmosfera assonnata delle sale di concerti. Entriamo insieme, da futuristi, in uno di questi ospedali di suoni anemici. Ecco: la prima battuta vi reca subito all'orecchio la noia del già udito e vi fa pregustare la noia della battuta che seguirà. Centelliniamo così, di battuta in battuta, due o tre qualità di noie schiette aspettando sempre la sensazione straordinaria che non viene mai. Intanto si opera una miscela ripugnante formata dalla monotonia delle sensazioni e dalla cretinesca commozione religiosa degli ascoltatori buddisticamente ebbri di ripetere per la millesima volta la loro estasi più o meno snobistica ed imparata. Via! Usciamo, poichè non potremmo a lungo frenare in noi il desiderio di creare finalmente una nuova realtà musicale, con un'ampia distribuzione di ceffoni sonori, saltando a piè pari 
+						<list>
+							<item>violini,</item>
+							<item>pianoforti,</item> 
+							<item>contrabbassi,</item> 
+							<item>ed organi gemebondi.</item> 
+						</list>
+						Usciamo!
+					</lg>
+
+				</p>
+				
+				<p n="3">	
+
+					<lg>
+						Non si potrà obiettare che il rumore sia soltanto forte e sgradevole all'orecchio. Mi sembra inutile enumerare tutti i rumori tenui e delicati, che dànno sensazioni acustiche piacevoli.
+					</lg>
+					<lg>	
+						Per convincersi poi della varietà sorprendente dei rumori, basta pensare 
+						<list>
+							<item>al rombo del tuono,</item>
+							<item>ai sibili del vento,</item> 
+							<item>allo scrosciare di una cascata,</item> 
+							<item>al gorgogliare d'un ruscello,</item> 
+							<item>ai fruscii delle foglie,</item>
+							<item>al trotto di un cavallo che s'allontana,</item>
+							<item>ai sussulti traballanti d'un carro sul selciato</item>
+							<item>alla respirazione ampia, solenne e bianca di una città notturna,</item>
+							<item>a tutti i rumori che fanno le belve e gli animali domestici</item>
+							<item>e a tutti quelli che può fare la bocca dell'uomo senza parlare o cantare.</item>
+						</list>        
+					</lg>
+					<lg>
+						Attraversiamo una grande capitale moderna, con le orecchie più attente che gli occhi, e godremo nel distinguere 
+						<list>
+							<item>i risucchi d'acqua,</item>
+							<item>d'aria,</item> 
+							<item>o di gas nei tubi metallici,</item> 
+							<item>il borbottìo dei motori che fiatano e pulsano con una indiscutibile animalità,</item> 
+							<item>il palpitare delle valvole,</item>
+							<item>l'andirivieni degli stantuffi,</item>
+							<item>gli stridori delle seghe meccaniche,</item>
+							<item>i balzi del tram sulle rotaie,</item>
+							<item>lo schioccar delle fruste,</item>
+							<item>il garrire delle tende e delle bandiere.</item>
+						</list>
+						Ci divertiremo ad orchestrare idealmente insieme 
+						<list>
+							<item>il fragore delle saracinesche dei negozi,</item>
+							<item>le porte sbatacchianti,</item> 
+							<item>il brusìo e lo scalpiccìo delle folle,</item> 
+							<item>i diversi frastuoni delle stazioni,</item> 
+							<item>delle ferriere,</item>
+							<item>delle filande,</item>
+							<item>delle tipografie,</item>
+							<item>delle centrali elettriche</item>
+							<item>e delle ferrovie sotterranee.</item>
+						</list>
+					</lg>
+					<lg>
+						Nè bisogna dimenticare i rumori nuovissimi della guerra moderna. Recentemente il poeta Marinetti, in una sua lettera dalle 
+						<event type="war">
+							trincee di <place type="city">Adrianopoli<desc>odierna Edirne</desc></place>
+							<desc>Assedio della città di Adrianopoli, <date>1912-1913</date>, prima guerra balcanica</desc>
+						</event>	
+						, mi descriveva con mirabili parole in libertà l'orchestra di una grande battaglia:
+					</lg>
+
+					<div type="letter" rend="italics">
+						<desc><type>Lettera</type> di <author>Filippo Tommaso marinetti</author> a <to>Luigi RUssolo</to> sulla <subject>guerra</subject>
+						</desc>
+							“ogni 
+							<measurement type="temporal">5 secondi</measurement> 
+							cannoni da assedio sventrare spazio con un accordo 
+							<div rend="bold">tam-tuuumb</div> 
+							ammutinamento di 500 echi per azzannarlo sminuzzarlo sparpagliarlo 	all'infinito Nel centro di quei 
+							<div rend="bold">tam-tuuumb</div>  
+							spiaccicati 
+							<measurement type="spatial">ampiezza 50 chilometri quadrati</measurement> 
+							balzare scoppi tagli pugni batterie a tiro rapido Violenza ferocia regolarità questo basso grave scandere gli strani folli agitatissimi acuti della battaglia Furia affanno orecchie occhi narici aperti! attenti! forza! che gioia vedere udire fiutare tutto tutto taratatatata delle mitragliatrici strillare a perdifiato sotto morsi schiaffi traak-traak frustate pic-pac-pum-tumb bizzarrie salti altezza 200 metri della fucileria Giù giù in fondo all'orchestra stagni diguazzare buoi buffali pungoli carri pluff plaff impennarsi di cavalli flic flac zing zing sciaaack ilari nitriti iiiiiii... scalpiccii tintinnii 3 battaglioni bulgari in marcia croooc-craaac (lento due tempi) Sciumi Maritza o Karvavena croooc-craaac (lento) grida degli ufficiali sbatacchiare come piatti ottone pan di qua pack di là cing 
+							<div rend="bold">buuum</div> 
+							cing ciak (presto) ciaciacia-ciaciaak su giù là là intorno in alto attenzione sulla testa ciaak bello! Vampe vampe vampe vampe vampe    vampe ribalta dei forti laggiù dietro quel fumo Sciukri Pascià comunica telefonicamente con 27 forti in turco in tedesco allò! Ibrahim!! Rudolf! allò! allò, attori ruoli echi suggeritori scenari di fumo foreste applausi odore di fieno fango sterco non sento più i miei piedi gelati odore di salnitro odore di marcio Timpani flauti clarini dovunque basso alto uccelli cinguettare beatitudine ombrie 
+							<div rend="small">cip-cip-cip</div> 
+							brezza verde mandre 
+							<div rend="small">don-dan-don-dinbèèè</div> 
+							Orchestra       i pazzi bastonano i professori d'orchestra questi bastonatissimi suonare suonare Grandi fragori non cancellare precisare ritagliandoli rumori più piccoli minutissimi rottami di echi nel teatro ampiezza 300 chilometri quadrati 
+							<place type="river">Fiumi Maritza
+								<desc>
+									<name>Evros</name>
+								</desc>
+							</place> 
+							<place type="river">Tungia
+								<desc>
+									<name>Tundza</name>
+								</desc>
+							</place> 
+							sdraiati
+							<place type="mountain">Monti Ròdopi</place>  
+							 ritti alture palchi loggione 20000 shrapnels sbracciarsi esplodere fazzoletti bianchissimi pieni d'oro 
+							<div rend="bold">Tumb-tumb</div> 
+							20000 granate protese strappare con schianti capigliature nerissime 
+							<div rend="bold">zang-srrrrrr-tumb-tuuumb</div> 
+							l'orchestra dei rumori di guerra gonfiarsi sotto una nota di silenzio tenuta nell'alto cielo pallone sferico dorato che sorveglia i tiri”.
+	
+					</div>
+					<lg>
+						<statement rend="bold">Noi vogliamo intonare e regolare armonicamente e ritmicamente questi svariatissimi rumori.</statement>
+						Intonare i rumori non vuol dire togliere ad essi tutti i movimenti e le vibrazioni irregolari di tempo e d'intensità, ma bensì dare un grado o tono, alla più forte e predominante di queste vibrazioni. Il rumore infatti si differenzia dal suono solo in quanto le vibrazioni che lo producono sono confuse ed irregolari, sia nel tempo che nella intensità. 
+						<statement rend="bold">Ogni rumore ha un tono, talora anche un accordo che predomina nell'insieme delle sue vibrazioni irregolari</statement>
+						. Ora, da questo caratteristico tono predominante deriva la possibilità pratica di intonarlo, di dare cioè ad un dato rumore non un solo tono ma una certa varietà di toni, senza perdere la sua caratteristica, voglio dire il timbro che lo distingue. Così alcuni rumori ottenuti con un movimento rotativo possono offrire un'intera scala cromatica ascendente o discendente, se si aumenta o diminuisce la velocità del movimento.
+					</lg>
+					<lg>	
+						Ogni manifestazione della nostra vita è accompagnata dal rumore. Il rumore è quindi famigliare al nostro orecchio, ed ha il potere di richiamarci immediatamente alla vita stessa. Mentre il suono, estraneo alla vita, sempre musicale, cosa a sè, elemento occasionale non necessario, è divenuto ormai per il nostro orecchio quello che all'occhio è un viso troppo noto, il rumore invece, giungendoci confuso e irregolare dalla confusione irregolare della vita, non si rivela mai interamente a noi e ci serba innumerevoli sorprese. Siamo certi dunque che scegliendo, coordinando e dominando tutti i rumori, noi arricchiremo gli uomini di una nuova voluttà insospettata. Benchè la caratteristica del rumore sia di richiamarci brutalmente alla vita, 
+						<statement rend="bold">l'arte dei rumori non deve limitarsi ad una riproduzione imitativa</statement>
+						. Essa attingerà la sua maggiore facoltà di emozione nel godimento acustico in sè stesso, che l'ispirazione dell'artista saprà trarre dai rumori combinati. 
+					</lg>
+					<lg>	
+						Ecco le 6 
+						<title rend="italics">famiglie di rumori</title> dell'orchestra futurista che attueremo presto, meccanicamente:
+						<list>
+							
+							<item>
+								1.
+								<list n="1">
+								  <item>Rombi</item>
+								  <item>Tuoni</item>
+								  <item>Scoppii</item>
+								  <item>Scrosci</item>
+								  <item>Tonfi</item>
+								  <item>Boati</item>
+								</list> 
+							</item>
+							<item> 
+								2.
+								<list n="2">
+								  <item>Fischi</item>
+								  <item>Sibili</item>
+								  <item>Sbuffi</item>
+								</list>
+							</item>
+							<item>
+								3.
+								<list n="3">
+								  <item>Bisbigli</item>
+								  <item>Mormorii</item>
+								  <item>Borbottii</item>
+								  <item>Brusii</item>
+								  <item>Gorgoglii</item>
+								</list>
+							</item>	
+							<item>
+								4.
+								<list n="4">
+								  <item>Stridori</item>
+								  <item>Scricchiolii</item>
+								  <item>Fruscii</item>
+								  <item>Ronzii</item>
+								  <item>Crepitii</item>
+								  <item>Stropiccii</item>
+								</list> 
+							</item>
+							<item>
+								5. Rumori ottenuti a percussione su 
+								<list n="5">
+								  <item>metalli,</item>
+								  <item>legni,</item>
+								  <item>pelli,</item>
+								  <item>pietre,</item>
+								  <item>terrecotte,</item>
+								</list>
+								ecc.
+							</item>
+							<item>
+								6. Voci di animali e di uomini:
+								<list n="6">
+								  <item>Gridi,</item>
+								  <item>Strilli,</item>
+								  <item>Gemiti,</item>
+								  <item>Urla,</item>
+								  <item>Ululati,</item>
+								  <item>Risate,</item>
+								  <item>Rantoli,</item>
+								  <item>Singhiozzi,</item>
+								</list>
+							</item>
+						</list>
+					</lg>
+					<lg>
+						In questo elenco abbiamo racchiuso i più caratteristici fra i rumori fondamentali; gli altri non sono che le associazioni e le combinazioni di questi. 
+						<statement rend="bold">I movimenti ritmici di un rumore sono infiniti. Esiste sempre, come per il tono, un ritmo predominante,</statement> 
+						ma attorno a questo altri numerosi ritmi secondari sono pure sensibili.
+					</lg>
+				</p>
+
+				<p n="4">
+
+					<head rend="bold">CONCLUSIONI:</head>
+						<list>
+							<item> 
+								1. – I musicisti futuristi devono allargare ed arricchire sempre più il campo dei suoni. Ciò risponde a un bisogno della nostra sensibilità. Notiamo infatti nei compositori geniali d'oggi una tendenza verso le più complicate dissonanze. Essi, allontanandosi sempre più dal suono puro, giungono quasi al suono-rumore. Questo bisogno e questa tendenza non potranno essere soddisfatti che coll'aggiunta e la sostituzione dei rumori ai suoni.
+							</item>
+							<item> 
+								2. – I musicisti futuristi devono sostituire alla limitata varietà dei timbri degl'istrumenti che l'orchestra possiede oggi l'infinita varietà dei timbri dei rumori, riprodotti con appositi meccanismi.
+							</item>
+							<item>
+								3. – Bisogna che la sensibilità del musicista, liberandosi dal ritmo facile e tradizionale, trovi nei rumori il modo di ampliarsi e rinnovarsi, dato che ogni rumore offre l'unione dei ritmi più diversi oltre a quello predominante.
+							</item>
+							<item>
+								4. – Ogni rumore avendo nelle sue vibrazioni irregolari 
+								<text rend="bold">un tono generale predominante</text> , si otterrà facilmente nella costruzione degli strumenti che lo imitano una varietà sufficientemente estesa di toni, semitoni e quarti di toni. Questa varietà di toni non toglierà a ogni singolo rumore le caratteristiche del suo timbro, ma ne amplierà solo la tessitura o estensione.
+							</item>
+							<item>
+								5. – Le difficoltà pratiche per la costruzione di questi strumenti non sono gravi. Trovato il principio meccanico che dà un rumore, si potrà mutarne il tono regolandosi sulle stesse leggi generali dell'acustica. Si procederà per esempio con la diminuzione o l'aumento della velocità, se lo strumento avrà un movimento rotativo, e con una varietà di grandezza o di tensione delle parti sonore, se lo strumento non avrà movimento rotativo.
+							</item>
+							<item>
+								6. – Non sarà mediante una successione di rumori imitativi della vita, bensì mediante una fantastica associazione di questi timbri varî, e di questi ritmi varî, che la nuova orchestra otterrà le più complesse e nuove emozioni sonore. Perciò ogni strumento dovrà offrire la possibilità di mutare tono, e dovrà avere una più o meno grande estensione.
+							</item>
+							<item>	
+								7. – La varietà dei rumori è infinita. Se oggi, mentre noi possediamo forse mille macchine diverse, possiamo distinguere mille rumori diversi, domani, col moltiplicarsi di nuove macchine, potremo distinguere dieci, venti o 
+								<text rend="bold">trentamila rumori diversi, non da imitare semplicemente, ma da combinare secondo la nostra fantasia.</text>
+							</item>
+							<item>
+								8. – Invitiamo dunque i giovani musicisti geniali e audaci ad osservare con attenzione tutti i rumori, per comprendere i varî ritmi che li compongono, il loro tono principale e quelli secondari. Paragonando poi i timbri varî dei rumori ai timbri dei suoni, si convinceranno di quanto i primi siano più numerosi dei secondi. Questo ci darà non solo la comprensione ma anche il gusto e la passione dei rumori. La nostra sensibilità moltiplicata, dopo essersi conquistati degli occhi futuristi avrà finalmente delle orecchie futuriste. Così i motori e le macchine delle nostre città industriali potranno un giorno essere sapientemente intonati, in modo da fare di ogni officina una inebbriante orchestra di rumori.
+							</item>
+						</list>
+				</p>
+				<div type="conclusion">
+					Caro 
+					<name type="person">Pratella</name>
+					, io sottopongo al tuo genio futurista queste mie constatazioni, invitandoti alla discussione. Non sono musicista di professione: non ho dunque predilezioni acustiche, nè opere da difendere. Sono un pittore futurista che proietta fuori di sè in un'arte molto amata e studiata la sua volontà di rinnovare tutto. Perciò più temerario di quanto potrebbe esserlo un musicista di professione, non preoccupandomi della mia apparente incompetenza, e convinto che l'audacia abbia tutti i diritti e tutte le possibilità, ho potuto intuire il grande rinnovamento della musica mediante l'Arte dei Rumori.
+				</div>
+			</div>	
+		</body>
+
+		<back>
+			<div rtype="sign" end="bold">
+
+				<place>MILANO</place>
+				, 
+				<date when="1913-03-11">11 Marzo 1913.</date>
+					
+				<div type="signPart">
+					<name>Luigi Russolo</name> 
+					<attribute>Pittore</attribute>
+				</div>
+									
+				<div rend="bold" id="publisher">
+					DIREZIONE DEL MOVIMENTO FUTURISTA: 
+					<address>Corso Venezia, 61</address>
+					 - 
+					<city>MILANO</city>
+				</div>
+			</div>
+		</back>
+	</text>
+</TEI>
+

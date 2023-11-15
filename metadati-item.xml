@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		
+	<manifest xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<dc:title >L'arte dei rumori</dc:title>
+		<dcterms:alternative>Manifesto futurista</dcterms:alternative>
+		<dc:creator>Russolo, Luigi</dc:creator>
+		<dc:publisher>Milano-Direzione del Movimento Futurista</dc:publisher>
+		<dc:contributor>Mart-Archivio del '900</dc:contributor>
+		<dc:subject>Futurism</dc:subject>
+		<dc:subject>Music</dc:subject>
+		<dc:subject>Avanguardie '900</dc:subject>
+		<dc:subject>Electronic music</dc:subject>
+		<dc:subject>History of music</dc:subject>
+		<dc:description>Manifesto futurista di Luigi Russolo sulla musica</dc:description>
+		<dcterms:abstract>Il testo è un manifesto che esplora l'evoluzione della musica e del rumore nell'ambito della tecnologia e della sensibilità umana. Sottolinea il passaggio dalla vita del silenzio all'era del rumore, innescato dall'invenzione delle macchine nel XIX secolo. L'autore propone l'idea di un' "Arte dei Rumori" come una conseguenza naturale delle innovazioni musicali. Viene promosso dall'artista un nuovo approccio alla strumentazione e composizione musicale. L'elettronica e le altre tecnologie consentiranno ai musicisti futuristi di sostituire gli strumenti musicali attuali con la varietà infinita di timbri dei rumori, riprodotti con meccanismi appropriati</dcterms:abstract>
+		<dc:date>1913-03-11</dc:date>
+		<dcterms:dateSubmitted>2023-11-09</dcterms:dateSubmitted>
+		<dc:type>Text</dc:type>
+		<dc:format>jpeg</dc:format>
+		<dcterms:extent>375.7Kbytes</dcterms:extent>
+		<dcterms:medium>Paper</dcterms:medium>
+		<dc:identifier>ark:/13960/s23brjfh6d7</dc:identifier>
+		<dc:language>it</dc:language>
+		<dcterms:tableOfContents>introduction; body; conclusion</dcterms:tableOfContents>
+		<dcterms:isPartOf>L'arte dei rumori, 1916</dcterms:isPartOf>
+		<dcterms:spatial>Milano</dcterms:spatial>
+		<dcterms:temporal>1913-1916</dcterms:temporal>
+		<dcterms:bibliographicCitation>Russolo, Luigi, 1913, L'arte dei rumori - Manifesto futurista, Milano, Direzione del movimento futurista</dcterms:bibliographicCitation>
+		<dc:source>https://www.dublincore.org/specifications/dublin-core/dcmi-terms/</dc:source>
+		<dc:rights>CC-BY-NC-ND, Creative Commons Attribuzione - Non commerciale - Non derivata 3.0 Italia</dc:rights>
+	</manifest>

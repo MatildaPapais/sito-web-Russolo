@@ -121,7 +121,7 @@
 			          Arte
 			        </a>
 			        <div class="dropdown-menu">
-			          <a class="dropdown-item" href="#">Opere d'arte</a>
+			          <a class="dropdown-item" href="opere.html">Opere d'arte</a>
 			          <a class="dropdown-item" href="#">Letteratura critica</a>
 			        </div>
 			      </li>
@@ -229,7 +229,7 @@
 		   				<h5>Introduzione</h5>
 		   				<p>Scritto da Luigi Russolo in una lettera del 1913 all'amico e compositore futurista <a href="#">Francesco Balilla Pratella</a>, il manifesto futurista <i>L'arte dei rumori</i> è considerato uno dei testi più importanti nell'estetica musicale del XX secolo.<br>Russolo sostiene che il nuovo mondo rumoroso e veloce a cui l'uomo si sta abituando richieda nuovi strumenti musicali e un nuovo approccio alla composizione musicale. Propone una serie di conclusioni su come l'elettronica e le altre tecnologie consentiranno ai <a href="#">musicisti futuristi</a> di "sostituire" la limitata varietà di timbri che l'orchestra possiede oggi con la varietà infinita di timbri dei rumori, riprodotti con meccanismi appropriati.
 		   				</p>
-		   				<button type="button" class="btn btn-dark"><a href="tei-item.xml">Vai al testo</a></button>
+		   				<button type="button" class="btn btn-dark">Vai al testo</button>
 		   				
 					</div>
 
@@ -245,28 +245,25 @@
 					  	<hr>
 						<div id="ordine" class="container">
 						  	<h6>Vedi i Metadati:</h6>
-						  	<button type="button" class="btn btn-dark btn-sm">XML/DC</button><br>
-						  	<button type="button" class="btn btn-dark btn-sm">XML/TEI</button>
+						  	<a href="metadati-item.xml"><button type="button" class="btn btn-dark btn-sm">XML/DC</button></a><br>
+						  	<a href="tei-item.xml"><button type="button" class="btn btn-dark btn-sm">XML/TEI</button></a>
 						</div>
 						  <hr>
 					  	<div id="filtri" class="container">
 					  		<h6>Scarica:</h6>
 						  	<div class="dropdown">
-								  <span>Immagini ></span>
-								<div class="dropdown-content">
+								  	<span>Immagini ></span>
+							  	<div class="dropdown-content">
 								  <p>
 								  	<form action="/action_page.php">
 								    <input type="checkbox">
-								    <label for="tecnica1"><small>JPG</small></label>
-								    <input type="checkbox">
-								    <label for="tecnica2"><small>PNG</small></label>
-								    <input type="checkbox">
-								    <label for="tecnica2"><small>JPEG</small></label>
-								    <br>
+								    <label for="tecnica1"><small>PNG</small></label><br>
+								    <label for="tecnica1"><small>JPG</small></label><br>					
+								    <label for="tecnica1"><small>JPEG</small></label><br>										
 								    <input type="submit" value="scarica">
-								    </form>
-								  </p>
-								</div>
+							    	</form>
+							  	   </p>
+						  		</div>
 							</div>
 							<br>
 							<div class="dropdown">
@@ -275,8 +272,21 @@
 								  <p>
 								  	<form action="/action_page.php">
 								    <input type="checkbox">
-								    <label for="tecnica1"><small>PDF</small></label><br>					
-								    <input type="submit" value="filtra">
+								    <label for="tecnica1"><small>PDF</small></label><br>									
+								    <input type="submit" value="scarica">
+							    	</form>
+							  	   </p>
+						  		</div>
+							</div>
+							<br>
+							<div class="dropdown">
+							  <span>Scheda ></span>
+							  	<div class="dropdown-content">
+								  <p>
+								  	<form action="/action_page.php">
+								    <input type="checkbox">
+								    <label for="tecnica1"><small></small></label><br>									
+								    <input type="submit" value="scarica">
 							    	</form>
 							  	   </p>
 						  		</div>
@@ -464,7 +474,6 @@
 						<a href="#" class="fa fa-twitter"></a>
 						<a href="#" class="fa fa-pinterest"></a>
 					</div>
-
 					
 				</div>	
 			</div>
