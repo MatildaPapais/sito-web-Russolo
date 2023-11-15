@@ -57,6 +57,11 @@ img {
   color: whitesmoke !important;
 }
 
+.btn-dark a:link {
+  text-decoration: none !important;
+  color: white !important;
+}
+
 #main a {
   color: grey;
 }
@@ -192,6 +197,11 @@ footer .container-fluid {
   color: #803789;
 }
 
+#sidebar a {
+  color: grey;
+  text-decoration: none;
+}
+
 #sidebar .dropdown {
   position: relative;
   display: inline-block;
@@ -204,6 +214,7 @@ footer .container-fluid {
   background-color: white;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   padding: 0 3px;
+  z-index: 1;
 }
 
 #sidebar .dropdown:hover .dropdown-content {
@@ -313,6 +324,7 @@ ul {
 #introduzione button a:visited {
   color: white !important;
 }
+
 
 #scheda {
   margin: 20px 0px 30px 0px;
